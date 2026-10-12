@@ -1,5 +1,5 @@
 cff-version: 1.2.0
-message: "If you use these scripts or data, please cite them as below, together with the papers."
+message: "If you use these scripts or data, please cite them as below, together with the papers. Code (Python, Lean, workflow files): Apache-2.0 (LICENSE). Figures and data: CC BY 4.0 (LICENSE-figures)."
 title: "Doyle spirals of the quadratic family: scripts, data and Lean proofs for three papers"
 type: software
 authors:
@@ -18,9 +18,9 @@ keywords:
   - golden ratio
   - rigidity constants
 repository-code: "https://github.com/gs-g-hwang/doyle-spirals"
-license:
-  - Apache-2.0
-  - CC-BY-4.0
-version: "1.0.0"
-# To add on release day: date-released (YYYY-MM-DD);
-# after the first Zenodo release: doi (concept DOI).
+# One licence only: Zenodo's CITATION.cff reader rejects a list ("Citation metadata load failed").
+# The figures and data are CC BY 4.0; see the message above and LICENSE-figures.
+license: Apache-2.0
+version: "1.0.1"
+date-released: "2026-10-12"
+# After the first Zenodo release: doi (concept DOI).
