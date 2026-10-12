@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.lake/
+*.aux
+*.log
+*.out
+*.synctex.gz
+.DS_Store
+Thumbs.db
+paperA/computations/residual.npy

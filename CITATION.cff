@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use these scripts or data, please cite them as below, together with the papers."
+title: "Doyle spirals of the quadratic family: scripts, data and Lean proofs for three papers"
+type: software
+authors:
+  - family-names: Hwang
+    given-names: Hai-Yeh
+    affiliation: Hsin-Min Elementary School
+    orcid: "https://orcid.org/0009-0005-3548-5831"
+  - family-names: Hwang
+    given-names: Gwang-Syung George
+    affiliation: Independent Researcher
+    email: g@georgehwang.com
+    orcid: "https://orcid.org/0009-0005-1090-5502"
+keywords:
+  - Doyle spiral
+  - circle packing
+  - golden ratio
+  - rigidity constants
+repository-code: "https://github.com/gs-g-hwang/doyle-spirals"
+license:
+  - Apache-2.0
+  - CC-BY-4.0
+version: "1.0.0"
+# To add on release day: date-released (YYYY-MM-DD);
+# after the first Zenodo release: doi (concept DOI).
