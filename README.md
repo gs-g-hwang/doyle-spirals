@@ -58,7 +58,7 @@ The project has 49 files and no `sorry`. Two results are taken as hypotheses and
 
 ## Citation
 
-Please cite the papers. To cite this repository, use the "Cite this repository" button (from `CITATION.cff`) or its Zenodo DOI.
+Please cite the papers. To cite this repository, use the "Cite this repository" button (from `CITATION.cff`) or its Zenodo DOI, [10.5281/zenodo.23315470](https://doi.org/10.5281/zenodo.23315470) (all versions).
 
 ## Licence
 

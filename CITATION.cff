@@ -23,4 +23,5 @@ repository-code: "https://github.com/gs-g-hwang/doyle-spirals"
 license: Apache-2.0
 version: "1.0.1"
 date-released: "2026-10-12"
-# After the first Zenodo release: doi (concept DOI).
+# Concept DOI (all versions); v1.0.1 is 10.5281/zenodo.23315471.
+doi: 10.5281/zenodo.23315470
